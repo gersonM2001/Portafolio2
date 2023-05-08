@@ -1,0 +1,109 @@
+@font-face {
+    font-family: indie;
+    src: url(../media/IndieFlower-Regular.ttf);
+}
+
+#opciones{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #5F90AC;
+    margin: -8px;
+}
+button{
+    border-radius: 15px;
+    height: 46px;
+    margin-left: 30px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+body{
+    background-image: url(../media/fondo.jpg);
+}
+
+.contenido{
+    color: azure;
+    font-size: 40px;
+    margin: 195px;
+    font-family: 'Lobster', cursive;
+}
+
+.normal{
+    color: azure;
+    font-size: 28px;
+    margin-left: 192px;
+    margin-top: -161px;
+    
+}
+
+.logos{
+    color: azure;
+    margin-left: 192px;
+    font-size: 28px;
+}
+
+#web{
+    display: none;
+
+}
+
+.contacto{
+    color: azure;
+    margin-left: -2px;
+    font-size: 28px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#perfil{
+    height: 300px;
+    border-radius: 113px;
+    margin-left: 800px;
+    margin-top: -258px;
+}
+
+#inicio{
+    margin-top: -81px;
+    display: block;
+}
+
+.contenido2{
+    margin-top: 50px;
+    margin-left: 192px;
+    color: azure;
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.logos2{
+    height: 30px;
+    margin-bottom: 50px;
+}
+
+.tec{
+    margin-left: 180px;
+    margin-bottom: 25px;
+}
+
+.titulo{
+    font-size: 34px;
+    color: azure;
+    margin-left: 195px;
+    margin-top: -27px;
+    font-family: 'Lobster', cursive;
+}
+
+.sd{
+    height: 300px;
+    margin-left: 195px;
+    margin-top: 40px;
+}
+
+.descripcion{
+    margin-left:  195px;
+    color: azure;
+    font-family: 'indie', cursive;
+    font-size: 19px;
+}
